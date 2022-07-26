@@ -15,7 +15,7 @@ And this is me in 2022
 Also I keep a cute cat, we grow up better and better together.
 
 
-<img src="https://github.com/gtb-2022-gan-sanshan/Welcome-to-Sanshans-Org/blob/main/0%20(3).jpg" width="400" height="700"/><br/>
+<img src="https://github.com/gtb-2022-gan-sanshan/Welcome-to-Sanshans-Org/blob/main/0%20(3).jpg" width="400" height="600"/><br/>
 
 
 <img src="https://github.com/gtb-2022-gan-sanshan/Welcome-to-Sanshans-Org/blob/main/0%20(5).jpg" width="700" height="400"/><br/>
