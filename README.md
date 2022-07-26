@@ -7,4 +7,4 @@ I really enjoy hinking and any outdoor activities. This is a picture I took on t
 ![image]https://github.com/gtb-2022-gan-sanshan/Welcome-to-Sanshans-Org/blob/main/0%20(2).jpg
 
 And this is me in 2022
-![image]https://github.com/gtb-2022-gan-sanshan/Welcome-to-Sanshans-Org/blob/main/0%20(1).jpg
+![Image text](https://github.com/gtb-2022-gan-sanshan/Welcome-to-Sanshans-Org/blob/main/0%20(1).jpg)
